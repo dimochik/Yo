@@ -10,7 +10,7 @@ end
 
 Gem::Specification.new do |s|
   s.name        = "yo"
-  s.version     = YahooGeo::VERSION
+  s.version     = Yo::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Dmitri Korobov"]
   s.email       = ["dimochik@yahoo.com"]
